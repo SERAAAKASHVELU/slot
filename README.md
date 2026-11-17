@@ -27,6 +27,7 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
 <html>
     <head>
         <title>slot timetable</title>
@@ -97,14 +98,12 @@ Execute the program using runserver command.
             <td>2</td>
             <td>19AI301</td>
             <td>Python programming</td>
-            
-        </tr>
+         </tr>
         <tr> 
             <td>3</td>
             <td>19EE404</td>
             <td>Digital Electronics</td>
-              
-        </tr>
+         </tr>
         <tr>
             <td>4</td>
             <td>19AI414</td>
@@ -126,10 +125,12 @@ Execute the program using runserver command.
             <td>Basic Electrical and Electronics Engineering</td>
            </tr>
     </table>
+    </body>
 </html>
-
+```
 
 ## OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51427901-b49c-4768-8b72-7cdd8c1cf87e" />
 
 
 ## RESULT
