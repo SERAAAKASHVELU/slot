@@ -98,14 +98,12 @@ Execute the program using runserver command.
             <td>2</td>
             <td>19AI301</td>
             <td>Python programming</td>
-            
-        </tr>
+         </tr>
         <tr> 
             <td>3</td>
             <td>19EE404</td>
             <td>Digital Electronics</td>
-              
-        </tr>
+         </tr>
         <tr>
             <td>4</td>
             <td>19AI414</td>
@@ -132,7 +130,12 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+<<<<<<< HEAD
 ![s](image-1.png)
+=======
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51427901-b49c-4768-8b72-7cdd8c1cf87e" />
+
+>>>>>>> ed02b39620be045946bc6225cb49865514bd4db4
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
